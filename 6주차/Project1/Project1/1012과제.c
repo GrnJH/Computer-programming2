@@ -10,7 +10,7 @@ int main(void) {
 	int win = 0, draw = 0, random=0;
 	while (1) {
 		printf("가위, 바위, 보 셋중 하나를 입력하시오 : ");
-		char a[100];
+		char a[10];
 		gets(a);
 
 		srand(time(NULL));
