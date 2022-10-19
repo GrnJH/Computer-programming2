@@ -47,7 +47,6 @@ int main() {
 	return 0;
 }
 
-
 int main() {
 	char str[7];
 	int i;
@@ -60,9 +59,6 @@ int main() {
 	}
 	return 0;
 }
-
-
-
 
 
 void removebsn(char str[]) {
