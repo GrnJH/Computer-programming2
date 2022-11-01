@@ -48,7 +48,7 @@ int main(void) {
 	printf("%p %p %p %p\n", &man, man.name, man.phoneNum, &man.age);
 	return 0;
 }
-*/
+
 
 struct point
 {
@@ -75,6 +75,18 @@ int main(void)
 	printf("[%d, %d]와(과) [%d, %d] 연결 \n",
 		pos3.xpos, pos3.ypos, pos3.ptr->xpos, pos3.ptr->ypos);
 	return 0;
+}
+*/
+
+int main() {
+	char str1[] = "String";
+	char str2[] = "String";
+
+		if (str1 == str2) 
+			puts("같음");
+		else
+			puts("다름");
+		
 }
 
 //중간고사

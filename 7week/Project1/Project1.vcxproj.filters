@@ -18,16 +18,16 @@
     <ClCompile Include="lec07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="7assignment.c">
+    <ClCompile Include="과제1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="question1.c">
+    <ClCompile Include="문제1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="quesiton2.c">
+    <ClCompile Include="문제2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="question3.c">
+    <ClCompile Include="문제3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

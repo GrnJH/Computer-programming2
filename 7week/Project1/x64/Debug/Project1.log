@@ -1,2 +1,7 @@
-﻿  question3.c
+﻿  test.c
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\Project1\test.c(20,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\Project1\test.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\Project1\test.c(22,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\Project1\test.c(22,87): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\Project1\test.c(22,87): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
   Project1.vcxproj -> C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\7week\x64\Debug\Project1.exe

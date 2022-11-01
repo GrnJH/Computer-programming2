@@ -15,19 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="과제1번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="과제2번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="과제3번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="문제1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="과제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
