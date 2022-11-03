@@ -1,0 +1,4 @@
+﻿  문제4.c
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\10week\문제4.c(51): warning C4716: 'Rect': 값을 반환해야 합니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\10week\문제4.c(58): warning C4716: 'Output': 값을 반환해야 합니다.
+  10week.vcxproj -> C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\10week\x64\Debug\10week.exe

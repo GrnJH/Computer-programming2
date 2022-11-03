@@ -1,3 +1,6 @@
-﻿  문제4.c
-C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\Project1\문제4.c(19): warning C4716: 'printcomplex': 값을 반환해야 합니다.
+﻿  과제.c
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\Project1\과제.c(36,41): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\Project1\과제.c(36,41): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\Project1\과제.c(27): warning C4716: 'input': 값을 반환해야 합니다.
+C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\Project1\과제.c(42): warning C4716: 'search': 값을 반환해야 합니다.
   Project1.vcxproj -> C:\Users\User\Desktop\컴퓨터프로그래밍2\2-1.compro2\9week\x64\Debug\Project1.exe

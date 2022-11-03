@@ -27,5 +27,11 @@
     <ClCompile Include="문제4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="lec09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="과제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
